@@ -1,0 +1,4 @@
+"ICT_NAME", "PATH"
+"LINE2","\\Ip5800-hp\esi2002\dataLogger\"
+"OFFLINE" ,"\\Ip-5800-hp\esi2002\datalogger\"
+"LINE1","\\Ip5800-PC\esi2002\datalogger\"
